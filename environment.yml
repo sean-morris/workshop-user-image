@@ -66,3 +66,4 @@ dependencies:
     - gradio==5.49.1
     - anthropic==0.72.0
     - python-dotenv==1.2.1
+    - jupyter-ai==2.31.7
